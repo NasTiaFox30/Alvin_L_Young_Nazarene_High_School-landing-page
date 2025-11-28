@@ -29,6 +29,13 @@
   line-height: 1.8;
 }
 
+.about-history h3 {
+  color: var(--section-text);
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  font-size: 2.5rem;
+}
+
 @media (max-width: 768px) {
   .about-content {
     grid-template-columns: 1fr;

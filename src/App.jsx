@@ -14,11 +14,11 @@ export default function App() {
     <div className="App">
       <Header />
       <HeroSlider />
+      <GoogleMaps />
       <About />
-      <Statistics />  
+      {/* <Statistics />   */}
       <Teachers/>
       <Gallery />
-      <GoogleMaps/>
       <Contact />
       <Newsletter />
       <Footer />

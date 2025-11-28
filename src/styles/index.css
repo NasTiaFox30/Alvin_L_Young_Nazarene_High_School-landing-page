@@ -16,25 +16,25 @@ body {
 }
 
 :root {
-    --primary-dark-blue: #002D62;
-    --secondary-gold: #FFD700;
-    --accent-light-blue: #326288;
+    --primary: #002D62;
+    --secondary: #FFD700;
+    --accent: #326288;
     --light-gray: #F5F5F5;
 
     --bg-color: var(--light-gray);
     --bg-picture: rgba(0, 46, 98, 0.233);
 
-    --btn-color: var(--secondary-gold);
-    --btn-text-color: var(--primary-dark-blue);
+    --btn-color: var(--secondary);
+    --btn-text-color: var(--primary);
 
-    --icon-color: var(--primary-dark-blue);
+    --icon-color: var(--primary);
 
-    --section-name-color: var(--primary-dark-blue);
+    --section-name-color: var(--primary);
     --section-text: #333;
     --section-text-invers: #E0E0E0;
 
-    --section-color: var(--primary-dark-blue);
-    --gradient: linear-gradient(135deg, var(--primary-dark-blue) 0%, #001A36 100%);
+    --section-color: var(--primary);
+    --gradient: linear-gradient(135deg, var(--primary) 0%, #001A36 100%);
 
     --header-color: rgba(0, 45, 98, 0.95);
     --footer-color: #001A36;

@@ -39,7 +39,7 @@ export const schoolInfo = {
     heroSlider: [
         {
             title: "BUILDING A BRIGHTER FUTURE",
-            subtitle: "Empowering students with knowledge and Christian values since 1967.",
+            subtitle: "Empowering students with knowledge and Christian values since 1991.",
             buttonText: "Our Mission",
             buttonLink: "#about",
             image: slide1

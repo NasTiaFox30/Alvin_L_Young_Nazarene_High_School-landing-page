@@ -17,7 +17,7 @@ const Footer = () => {
               <div className="social-links">
                 <a href={schoolInfo.socials.facebook}><i><FaFacebook /></i></a>
                 <a href={schoolInfo.socials.instagram}><i><FaInstagram /></i></a>
-                <a href={schoolInfo.socials.linkedin}><i><FaLinkedin /></i></a>
+                {/* <a href={schoolInfo.socials.linkedin}><i><FaLinkedin /></i></a> */}
                 <a href={schoolInfo.socials.youtube}><i><FaYoutube /></i></a>
               </div>
             </div>

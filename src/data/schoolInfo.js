@@ -76,9 +76,9 @@ export const schoolInfo = {
     },
 
     stats: [
-        { number: 1250, label: 'Active Students' },
-        { number: 27, label: 'Expert Teachers' },
-        { number: 15, label: 'Support Staff' }
+        { number: 1150, label: 'Active Students' },
+        { number: 11, label: 'Expert Teachers' },
+        { number: 2, label: 'Support Staff' }
     ] ,
 
     GoogleMapsEmbedLink: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1906.9467224716445!2d-89.123398!3d17.077864!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5e42dd3a8f82e1%3A0x7eb790d59bf3848e!2sAlvin%20L%20Young%20Nazarene%20High%20School!5e0!3m2!1spl!2sus!4v1764334634056!5m2!1spl!2sus"

@@ -76,6 +76,11 @@ export const schoolInfo = {
             bio: 'Volunteer Teacher'
         },
     },
+    galleryCaptions: {
+      0: 'Example text',
+      1: 'Example text',
+      2: 'Example text',
+    },
 
     stats: [
         { number: 1150, label: 'Active Students' },

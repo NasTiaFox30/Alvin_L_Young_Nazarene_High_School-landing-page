@@ -21,11 +21,7 @@ const Gallery = () => {
   const hasMore = galleryItems.length > MAX_VISIBLE_ITEMS;
 
   function getCaptionByIndex(index) {
-    const captions = {
-      0: 'Example text',
-      1: 'Example text',
-      2: 'Example text',
-    };
+    const captions = schoolInfo.galleryCaptions;
     return captions[index] || `Gallery image ${index + 1}`;
   }
 
